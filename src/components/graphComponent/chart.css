@@ -1,0 +1,16 @@
+.installs{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    margin:  0px 40px;
+}
+
+.installs p{
+    margin: 0;
+}
+
+.chart-title{
+margin: 10px 0;
+text-align: center;
+}

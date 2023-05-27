@@ -1,0 +1,30 @@
+.nav-container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+  background-color: #f2f2f2;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.navbar-content {
+  padding: 5px 10px;
+  align-self: center;
+  color: gray;
+}
+
+.user-icon {
+  font-size: xx-large;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.navbar-logo {
+  height: 30px;
+  margin-right: 10px;
+}
